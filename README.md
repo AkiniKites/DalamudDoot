@@ -19,4 +19,5 @@ BardMusicPlayer can be used with the [DalamudDoot](https://github.com/BardMusicP
 
 Copy this url to your dalamud settings experimental custom plugin repositories and search for the dalamuddoot plugin.
 
-`https://dl.bardmusicplayer.com/dalamuddoot/`
+Temporary location until main repo is updated
+`https://raw.githubusercontent.com/AkiniKites/DalamudDoot/develop/repo.json`

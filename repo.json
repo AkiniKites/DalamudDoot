@@ -1,0 +1,25 @@
+[
+    {
+        "Name": "DalamudDoot",
+        "InternalName": "DalamudDoot",
+        "AssemblyVersion": "0.0.1.18",
+        "Description": "Bard Music Player 2.1 companion plugin.",
+        "ApplicableVersion": "any",
+        "Tags": ["BardMusicPlayer", "BMP", "Midi", "Bard", "Doot"],
+        "DalamudApiLevel": 10,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "LoadPriority": 0,
+        "Punchline": "Bard Music Player 2.1 companion plugin.",
+        "AcceptsFeedback": true,
+        "LoadPriority": 0,
+        "IconUrl": "https://dl.bardmusicplayer.com/dalamuddoot/icon.png",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "LastUpdate": 0,
+        "DownloadLinkInstall": "https://github.com/AkiniKites/DalamudDoot/releases/latest/download/DalamudDoot.zip",
+        "DownloadLinkTesting": "https://github.com/AkiniKites/DalamudDoot/releases/latest/download/DalamudDoot.zip",
+        "DownloadLinkUpdate": "https://github.com/AkiniKites/DalamudDoot/releases/latest/download/DalamudDoot.zip"
+    }
+]

@@ -2,11 +2,11 @@
     {
         "Name": "DalamudDoot",
         "InternalName": "DalamudDoot",
-        "AssemblyVersion": "0.0.1.18",
+        "AssemblyVersion": "0.0.1.19",
         "Description": "Bard Music Player 2.1 companion plugin.",
         "ApplicableVersion": "any",
         "Tags": ["BardMusicPlayer", "BMP", "Midi", "Bard", "Doot"],
-        "DalamudApiLevel": 10,
+        "DalamudApiLevel": 11,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "LoadPriority": 0,
